@@ -1,0 +1,15 @@
+.post-title::first-letter {
+  text-transform: capitalize;
+  font-size: 1.3em;
+}
+
+.post-extract {
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.post-extract::first-letter {
+  text-transform: capitalize;
+}

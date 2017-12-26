@@ -1,0 +1,36 @@
+.post-body {
+  text-align: justify;
+}
+
+.post-body::first-letter {
+  text-transform: capitalize;
+}
+
+.post-share {
+  cursor: pointer;
+}
+
+.post-like {
+  cursor: pointer;
+}
+
+.post-like.post-like-liked {
+  color: #337ac7;
+  font-weight: bold;
+}
+
+.post-like.post-like-liked:hover {
+  color: #337ac7;
+}
+
+.post-comment-date {
+  display: block;
+}
+
+.post-comment-body {
+  text-align: justify;
+}
+
+.post-new-comment {
+  margin-bottom: 50px;
+}

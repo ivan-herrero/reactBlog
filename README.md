@@ -2,8 +2,6 @@
 
 Web app made to experiment with React & Redux. Simulates a blog with posts and comments.
 
-Visit at: https://react-blog-ihn.herokuapp.com/
-
 ## Libraries & Tools used
 - [React](https://reactjs.org/)
 - [Redux](https://redux.js.org/)
